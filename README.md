@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Gaspar Oddovero H.</h1>
 <h3 align="center">Un desarrollador argentino. 🇦🇷</h3>
 
-- 🔭 Actualmente estoy trabajando en mi proyecto de tesis **Chefcito 👨‍🍳**
+- 🔭 Actualmente estoy realizando nuevamente un curso de Java, para seguir aprendiendo.
 
-- 🌱 Actualmente estoy aprendiendo sobre **Python! 🐍**
+- 🌱 Sumado a eso estoy iniciando el curso de **FullStack Open**. 
 
 - 👯 Tambien me encuentro dando clases en la Universidad Popular de General Levalle **,actualmente dando clases de Inteligencia Artificial y Programacion**
 
