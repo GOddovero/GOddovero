@@ -1,15 +1,24 @@
 
-<h1 align="center">Hola 👋, Soy Gaspar Oddovero H.</h1>
-<h3 align="center">Licenciado en Informatica y Desarrollador.</h3> 
-<div align = "center">
+<h1 class="typewriter" align="center">Hola 👋, Soy Gaspar Oddovero H.</h1>
+<h3 align="center">Licenciado en Informatica y Desarrollador.</h3>
+
+<div align="center">
+<a href="https://drive.google.com/file/d/1Cn8hmpJU5yfdn2MZMiaK41AdCVWN1eMi/view?usp=drive_link" style="color:white; text-decoration:none">
+Descarga mi CV actualizado:
+ <span style="display: inline-block; transition: transform 0.3s; text-decoration: none; cursor:pointer;" 
+onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"> Click Aquí </span></a>
 
 [![](https://visitcount.itsvg.in/api?id=Goddovero&icon=5&color=6)](https://visitcount.itsvg.in)
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Goddovero&theme=dark&hide_border=false)
 </div>
 
+
+
 ---
 # 💫 Sobre Mí: 
+👨‍💻Soy Gaspar Oddovero Herrera👨 un apasionado desarrollador de software con una licenciatura en informática de la Universidad Siglo 21. Con una sólida formación en desarrollo web y desktop, me especializo en llevar ideas innovadoras a la realidad mediante el uso de tecnologías avanzadas.
+<br> <br>
 🔭 
 Me encuentro dando clases en la Universidad Popular de General Levalle ,actualmente dando clases de Inteligencia Artificial, programacion en ***Python*** y diseño web con ***HTML, CSS y JS***
 <br><br>
@@ -43,6 +52,4 @@ Me encuentro dando clases en la Universidad Popular de General Levalle ,actualme
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goddovero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=Goddovero&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 </div>
-
