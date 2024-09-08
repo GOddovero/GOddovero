@@ -1,15 +1,16 @@
 
-<h1 class="typewriter" align="center">Hola 👋, Soy Gaspar Oddovero H.</h1>
+<h1 align="center">Hola 👋, Soy Gaspar Oddovero H.</h1>
 <h3 align="center">Licenciado en Informatica y Desarrollador.</h3>
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1Cn8hmpJU5yfdn2MZMiaK41AdCVWN1eMi/view?usp=drive_link" style="color:white; text-decoration:none">
-Descarga mi CV actualizado:
- <span style="color:white; text-decoration:none;"> Click Aquí </span></a>
-
+ 
 [![](https://visitcount.itsvg.in/api?id=Goddovero&icon=5&color=6)](https://visitcount.itsvg.in)
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Goddovero&theme=dark&hide_border=false)
+
+<br>
+<a href="https://drive.google.com/file/d/1Cn8hmpJU5yfdn2MZMiaK41AdCVWN1eMi/view?usp=drive_link">
+Descarga mi CV actualizado
 </div>
 
 
