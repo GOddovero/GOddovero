@@ -5,8 +5,7 @@
 <div align="center">
 <a href="https://drive.google.com/file/d/1Cn8hmpJU5yfdn2MZMiaK41AdCVWN1eMi/view?usp=drive_link" style="color:white; text-decoration:none">
 Descarga mi CV actualizado:
- <span style="display: inline-block; transition: transform 0.3s; text-decoration: none; cursor:pointer;" 
-onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"> Click Aquí </span></a>
+ <span style="color:white; text-decoration:none;"> Click Aquí </span></a>
 
 [![](https://visitcount.itsvg.in/api?id=Goddovero&icon=5&color=6)](https://visitcount.itsvg.in)
 <br>
