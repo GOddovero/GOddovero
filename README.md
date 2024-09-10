@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, Soy Gaspar Oddovero H.</h1>
+<h1 align="center">Hola 👋 Soy Gaspar Oddovero H.</h1>
 <h3 align="center">Licenciado en Informatica y Desarrollador.</h3>
 
 
